@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Wajiha692
-- 🌱 I’m currently doing Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Wajiha
+- 🌱  Software Engineer
+- 💞️ AI • Automation • Digital Innovation • Enterprise Architecture • PMO Transformation
 
 <!---
 Wajiha692/Wajiha692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
